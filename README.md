@@ -216,37 +216,3 @@ Includes:
 
 
 
-## Navigation
-
-All pages are connected using links to ensure smooth navigation between:
-
- Home
- Timetable
- Contact
-
-
-
- Group Members participated
-
-  Jovin Jackson Peter – 34559/T.2024
-  Deusdedit Allanus Muganyizi – 34415/T.2024
-  Faraja Peter Kalikali – 32741/T.2024
-  Douglas Munisi – 34363/T.2024
-  Lilian Ado Moyo – 32485/T.2024
-  Simwata Chrispin Mwansanga – 34383/T.2024
-
-
-
- Conclusion
-
-This project demonstrates foundational web development skills in:
-
-HTML structure
-Data organization using tables
- input handling with forms
-Page navigation
-
-It serves as a practical introduction to building structured and interactive web pages.
-
-
-

@@ -4,12 +4,12 @@ Project: Ardhi ICT Innovation Hub
 
 
 
-## Objective
+Objective
 The objective of this lab was to reinforce fundamental HTML concepts by creating a structured multi-page website. This includes proper document setup, navigation between pages, and integration of multimedia elements.
 
 
 
-## What Was Done
+ What Was Done
 During this lab, we successfully:
 
  Created a well-structured HTML document using:
@@ -134,17 +134,17 @@ All pages are interconnected using navigation links.
 
 
 
-##  Page 2: Timetable Page (timetable.html)
+ Page 2: Timetable Page (timetable.html)
 
-### Features:
+ Features:
 
-* A structured table using:
+ A structured table using:
 
    `<table>`
    `<thead>` (for headings)
     `<tbody>` (for content)
 
-### Table Columns:
+Table Columns:
 
  Time
  Monday
@@ -153,21 +153,21 @@ All pages are interconnected using navigation links.
  Thursday
  Friday
 
-### Advanced Table Requirements:
+Advanced Table Requirements:
 
 Use of **rowspan** (e.g., subject spanning multiple time slots)
 Use of **colspan** (e.g., Lunch Break across all days)
 
-### Example Concepts:
+Example Concepts:
 
 A **Lunch Break** row spanning all columns
  A class covering **multiple rows**
 
 
 
-## Page 3: Contact Page (contact.html)
+Page 3: Contact Page (contact.html)
 
-### Part A: Basic Contact Form
+ Part A: Basic Contact Form
 
 Includes:
 
@@ -182,7 +182,7 @@ Message (textarea)
 
  IMPORTANT: This form is structured using a `<table>`
 
-### Fields Included:
+ Fields Included:
 
   Full Name (text, required)
   Email (`type="email"`, required)
@@ -198,7 +198,7 @@ Message (textarea)
   JavaScript
   Submit button
 
-###Validation:
+Validation:
 
  Uses `required` attribute
  Uses `type="email"` for proper email validation

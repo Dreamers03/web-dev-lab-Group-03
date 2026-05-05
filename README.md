@@ -178,7 +178,7 @@ Message (textarea)
 
 
 
-###Part B: Registration Form
+Part B: Registration Form
 
  IMPORTANT: This form is structured using a `<table>`
 

@@ -117,15 +117,15 @@ All pages are interconnected using navigation links.
 
 * **Ordered List** (Daily Routine), for example:
 
-  * Wake up
-  * Attend classes
-  * Study
+   Wake up
+   Attend classes
+   Study
 
 * **Unordered List** (Hobbies), for example:
 
-  * Reading
-  * Coding
-  * Sports
+   Reading
+   Coding
+  Sports
 
 * Navigation links to:
 
@@ -140,28 +140,28 @@ All pages are interconnected using navigation links.
 
 * A structured table using:
 
-  * `<table>`
-  * `<thead>` (for headings)
-  * `<tbody>` (for content)
+   `<table>`
+   `<thead>` (for headings)
+    `<tbody>` (for content)
 
 ### Table Columns:
 
-* Time
-* Monday
-* Tuesday
-* Wednesday
-* Thursday
-* Friday
+ Time
+ Monday
+ Tuesday
+ Wednesday
+ Thursday
+ Friday
 
 ### Advanced Table Requirements:
 
-* Use of **rowspan** (e.g., subject spanning multiple time slots)
-* Use of **colspan** (e.g., Lunch Break across all days)
+Use of **rowspan** (e.g., subject spanning multiple time slots)
+Use of **colspan** (e.g., Lunch Break across all days)
 
 ### Example Concepts:
 
-* A **Lunch Break** row spanning all columns
-* A class covering **multiple rows**
+A **Lunch Break** row spanning all columns
+ A class covering **multiple rows**
 
 
 
@@ -171,10 +171,10 @@ All pages are interconnected using navigation links.
 
 Includes:
 
-* Name (text input)
-* Email (`type="email"`)
-* Message (textarea)
-* Submit button
+ Name (text input)
+ Email (`type="email"`)
+Message (textarea)
+ Submit button
 
 
 
@@ -184,34 +184,26 @@ Includes:
 
 ### Fields Included:
 
-* Full Name (text, required)
-* Email (`type="email"`, required)
-* Password (`type="password"`, required)
-* Gender (Radio buttons):
+  Full Name (text, required)
+  Email (`type="email"`, required)
+  Password (`type="password"`, required)
+  Gender (Radio buttons):
 
-  * Male
-  * Female
-* Courses (Checkboxes):
+  Male
+  Female
+  Courses (Checkboxes):
 
-  * HTML
-  * CSS
-  * JavaScript
-* Submit button
+  HTML
+  CSS
+  JavaScript
+  Submit button
 
-### Validation:
+###Validation:
 
-* Uses `required` attribute
-* Uses `type="email"` for proper email validation
+ Uses `required` attribute
+ Uses `type="email"` for proper email validation
 
-### Example Table Structure:
 
-```html
-<table>
-  <tr>
-    <td>Full Name:</td>
-    <td><input type="text" required></td>
-  </tr>
-</table>
 
 
 

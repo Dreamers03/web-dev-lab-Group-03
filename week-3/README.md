@@ -1,17 +1,17 @@
-# Pixel Pioneers - Student Group Portfolio
+# Group no 3- Student Group Portfolio
 
-## 🌟 Lab Week 3: HTML Structure & CSS Styling
+##  Lab Week 3: HTML Structure & CSS Styling
 
 A clean, modern, and responsive single-page website created as part of **Web Development Lab Week 3**.
 
 ---
 
-### 🎯 Objective
+###  Objective
 To apply HTML structure and CSS styling using **Inline, Internal, and External** methods while demonstrating various CSS selectors.
 
 ---
 
-### 👥 Group Members
+###  Group Members participated
 
 | No. | Name                          | Registration Number |
 |-----|-------------------------------|---------------------|
@@ -24,7 +24,7 @@ To apply HTML structure and CSS styling using **Inline, Internal, and External**
 
 ---
 
-### ✅ Requirements Fulfilled
+### Requirements Fulfilled
 
 - **HTML Structure**: Semantic sections (Header, Navigation, About, Skills, Daily Routine)
 - **CSS Methods Used**:
@@ -41,7 +41,7 @@ To apply HTML structure and CSS styling using **Inline, Internal, and External**
 
 ---
 
-### 🧭 Website Sections
+###  Website Sections
 
 - **Header** – Group introduction
 - **Sticky Navigation Menu** – Easy navigation between sections
@@ -52,7 +52,7 @@ To apply HTML structure and CSS styling using **Inline, Internal, and External**
 
 ---
 
-### 🛠 Technologies Used
+### Technologies Used
 
 - HTML5
 - CSS3 (Flexbox)
@@ -61,7 +61,7 @@ To apply HTML structure and CSS styling using **Inline, Internal, and External**
 
 ---
 
-### 🚀 How to Run
+###  How to Run
 
 1. Download all three files
 2. Ensure they are in the **same folder**:
@@ -70,20 +70,14 @@ To apply HTML structure and CSS styling using **Inline, Internal, and External**
    - `README.md`
 3. Open `index.html` in any web browser
 
----
 
-### 📸 Preview
 
-![Pixel Pioneers Website](https://picsum.photos/id/201/800/400)
+###  Submission Details
 
----
-
-### 📅 Submission Details
-
-- **Course**: Web Development Laboratory
+- **Course**: Web Development 
 - **Week**: 3
-- **Academic Year**: 2024/2025
-- **Institution**: University of Dar es Salaam
+- **Academic Year**: 2025/2026
+- **Institution**: Ardhi University
 
 ---
 

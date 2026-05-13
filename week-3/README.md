@@ -9,6 +9,8 @@ A clean, modern, and responsive single-page website created as part of **Web Dev
 ###  Objective
 To apply HTML structure and CSS styling using **Inline, Internal, and External** methods while demonstrating various CSS selectors.
 
+file:///home/allan/Pictures/Screenshots/Screenshot%20from%202026-05-13%2018-00-23.png
+
 ---
 
 ###  Group Members participated

@@ -1,6 +1,8 @@
-# Group 6 CSS Layout Webpage Design
 
-## Lab 4: Understanding Layout Control in CSS
+
+# Lab 4: Understanding Layout Control in CSS
+
+## Group 6 CSS Layout Webpage Design
 
 ### Objective
 Develop control over CSS layout by mastering:
@@ -10,7 +12,6 @@ Develop control over CSS layout by mastering:
 
 This project demonstrates proper use of these core CSS layout techniques while intentionally exposing layout issues when concepts are misapplied.
 
----
 
 ### Features Implemented
 
@@ -33,13 +34,13 @@ This project demonstrates proper use of these core CSS layout techniques while i
 - No CSS Grid
 - Only Box Model, Positioning, and Float used
 
----
+
 
 ### Technologies Used
 - HTML5
 - CSS3 (Pure vanilla CSS)
 
----
+
 
 ### Group Members
 
@@ -64,6 +65,4 @@ This project demonstrates proper use of these core CSS layout techniques while i
    - Float-based two-column layout
    - Box model spacing
 
----
 
-### Project Structure
